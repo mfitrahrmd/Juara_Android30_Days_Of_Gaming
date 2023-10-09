@@ -109,6 +109,7 @@ fun Juara_Android30_Days_Of_GamingTheme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
+        shapes = shape,
         content = content
     )
 }
