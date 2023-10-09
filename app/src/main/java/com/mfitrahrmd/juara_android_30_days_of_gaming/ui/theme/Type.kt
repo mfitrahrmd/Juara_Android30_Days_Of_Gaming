@@ -29,6 +29,11 @@ val Typography = Typography(
         lineHeight = 28.sp,
         letterSpacing = 0.sp
     ),
+    titleMedium = TextStyle(
+        fontFamily = Rubik,
+        fontWeight = FontWeight.Bold,
+        fontSize = 16.sp,
+    ),
     labelSmall = TextStyle(
         fontFamily = Rubik,
         fontWeight = FontWeight.Bold,
