@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Juara_Android-30_Days_Of_Gaming</string>
+    <string name="day">Day %s</string>
+    <string name="dota_ranked">Play dota 2 ranked match</string>
+    <string name="dota_ranked_desc">Using hero Templar Assassin on midlane, build item BKB on third item</string>
+    <string name="valorant_ranked">Play valorant ranked match</string>
+    <string name="valorant_ranked_desc">Using character jett and get headshot kill with ultimate skill</string>
 </resources>
